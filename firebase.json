@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"neuro-aid","appId":"1:870389056334:android:c72ee250e32491ae0c941f","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"neuro-aid","configurations":{"android":"1:870389056334:android:c72ee250e32491ae0c941f","ios":"1:870389056334:ios:fe505fe16eacabcd0c941f"}}}}}}

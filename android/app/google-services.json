@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870389056334",
+    "project_id": "neuro-aid",
+    "storage_bucket": "neuro-aid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870389056334:android:c72ee250e32491ae0c941f",
+        "android_client_info": {
+          "package_name": "com.example.image_classification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kfpWJ0cIyumQX7aPyLHjUINRZbbDbao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
